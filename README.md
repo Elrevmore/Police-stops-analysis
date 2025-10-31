@@ -31,10 +31,32 @@ This project performs data preprocessing, visualizes stop trends, and calculates
 
 ---
 
+
+## Installation & Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/police-traffic-stops.git
+cd police-traffic-stops
+
+# Create a virtual environment
+python -m venv venv
+source venv/bin/activate     # Mac/Linux
+venv\Scripts\activate        # Windows
+
+# Install dependencies
+pip install pandas matplotlib
+
+# Run the analysis
+python main.py
+```
+
 ## Sample Results
 ### Stops by Hour 
 Most common stop hour: 10
 Number of stops at that hour: 7350
+
+
 
 ### Driver Gender Percentages
 - Man: 68.56%
@@ -83,4 +105,3 @@ Arrested counts by race and gender:
 - The dataset contains some missing or unknown values, highlighting the need for careful data cleaning and preprocessing.
 - These insights could inform policies, transparency, and fairness in policing practices.
 
-⭐ Star the repository if you find it useful!
