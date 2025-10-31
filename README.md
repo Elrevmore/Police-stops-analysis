@@ -42,7 +42,7 @@ Number of stops at that hour: 7350
 - Unknown: 5.82%
 
 ### Stop Outcomes
-| Stop outcomes | their percentages |
+| Stop outcomes | Their percentages |
 |---------------|-------------------|
 | Citation | 83.94% |
 | Unknown | 5.81% |
