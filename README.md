@@ -51,15 +51,17 @@ Number of stops at that hour: 7350
 | N/D | 0.64% |
 | No Action | 0.64% |
 | Arrest Passenger | 0.39% |
-
+ 
 ### Arrest Counts by Race and Gender
 Arrested counts by race and gender:
-- Asian        F: 11, M: 30
-- Black        F: 134, M: 571
-- Hispanic     F: 80, M: 486
-- White        F: 371, M: 1244
-- Other        M: 2
-- Unknown      Unknown: 5333
+| Race | Female | Male |
+|------|--------|------|
+| Asian | F: 11 | M: 30 |
+| Black | F: 134 | M: 571 |
+| Hispanic | F: 80 | M: 486 |
+| White | F: 371 | M: 1244 |
+| Other |        | M: 2 |
+| Unknown | Unknown: 5333 |
 
 ### Arrest Rate (%) by Race and Gender
 | Unknown | Unknown: 5.81% |
