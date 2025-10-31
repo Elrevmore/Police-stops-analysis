@@ -80,3 +80,5 @@ Arrested counts by race and gender:
 - Citation is the most common stop outcome (over 80%), whereas arrests are relatively rare.
 - The dataset contains some missing or unknown values, highlighting the need for careful data cleaning and preprocessing.
 - These insights could inform policies, transparency, and fairness in policing practices.
+
+⭐ Star the repository if you find it useful!
